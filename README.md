@@ -1,2 +1,2 @@
-# DB-Management-CIS260
+# DB-Management-260
 Home for Database Management Files
